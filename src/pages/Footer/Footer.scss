@@ -1,0 +1,22 @@
+.pie-pagina{
+    height: 100px;
+    line-height: 100px;
+    background: burlywood;
+    color: black;
+    text-align:center;
+    bottom: 0;
+    left: 0;
+    width: auto;
+
+    ul {
+        line-height: 1.5em;
+        margin: 0 0 1px;
+        padding: 0;
+      }
+      
+      li {
+        list-style: none;
+        position: relative;
+        padding: 0 0 0 20px;
+      }
+}
