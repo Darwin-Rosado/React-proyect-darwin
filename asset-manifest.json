@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-proyect-darwin/static/css/main.55a81a59.css",
+    "main.js": "/React-proyect-darwin/static/js/main.5fa8fa91.js",
+    "static/js/787.b2dd90c5.chunk.js": "/React-proyect-darwin/static/js/787.b2dd90c5.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/React-proyect-darwin/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/React-proyect-darwin/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/React-proyect-darwin/index.html",
+    "main.55a81a59.css.map": "/React-proyect-darwin/static/css/main.55a81a59.css.map",
+    "main.5fa8fa91.js.map": "/React-proyect-darwin/static/js/main.5fa8fa91.js.map",
+    "787.b2dd90c5.chunk.js.map": "/React-proyect-darwin/static/js/787.b2dd90c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55a81a59.css",
+    "static/js/main.5fa8fa91.js"
+  ]
+}
